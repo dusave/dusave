@@ -1,16 +1,31 @@
-<h1 align="center">Hi 👋, I'm Dustin</h1>
-<h3 align="center">Designer & Developer</h3>
-
-- 🔭 I’m currently working on **Neutrino UI**
-
-- 🌱 I’m currently learning **Go**
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dusave&show_icons=true&theme=merko" alt="dusave" /></p>
+<h1 align="center">Hi, I'm Dustin 👋</h1>
 
 <p align="center">
-<a href="https://codepen.io/dustinsavery" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="dustinsavery" height="30" width="30" /></a>
-<a href="https://twitter.com/dustinsavery" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dustinsavery" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/dustinsavery" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dustinsavery" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/4236686/dustin-savery" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="dustin-savery" height="30" width="30" /></a>
-<a href="https://dribbble.com/dustin_savery" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="dustin_savery" height="30" width="30" /></a>
+  <a href="https://dustin.codes">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=440&lines=Designer+%26+Developer;Currently+building+Hive+%F0%9F%90%9D;Gamifying+chores+%26+habits" alt="typing banner" />
+  </a>
+</p>
+
+<p align="center">
+  🐝 I'm building <strong>Hive</strong> — a family task tracker that turns chores
+  and habits into a game. Delegate tasks, build completion streaks, and let kids
+  pick up extra chores to earn money.
+</p>
+
+<p align="center">
+  <a href="https://dustin.codes">Website</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/dustinsavery">LinkedIn</a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dusave&hide_border=true&ring=000&fire=000&currStreakLabel=000" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dusave/dusave/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dusave/dusave/output/github-snake.svg" />
+    <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/dusave/dusave/output/github-snake.svg" />
+  </picture>
 </p>
